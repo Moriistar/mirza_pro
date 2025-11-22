@@ -3,13 +3,13 @@ $textadmin = ["panel", "/panel", $textbotlang['Admin']['textpaneladmin']];
 $text_panel_admin_login_template = "💎 | Version Bot: 5.10.77  
 📌 | Version Mini App: 0.1.1
 
-<blockquote>🔹 | این ربات کاملاً رایگان است و توسط توسعه‌دهنده میرزا عرضه شده و توسط Mmd | Amir دیباگ شده است.</blockquote>
+<blockquote>🔹 |   t.me/MoriiStar دیباگ شده توسط.</blockquote>
 
-<blockquote><a href=\"https://github.com/Mmd-Amir/mirza_pro\" style=\"color:#1e88ff;\">گیت هاب دیباگ کننده</a></blockquote>
+<blockquote><a href=\"https://github.com/MoriiStsr/mirza_pro\" style=\"color:#1e88ff;\">گیت هاب دیباگ کننده</a></blockquote>
 
-<blockquote>🔹 | هرگونه فروش یا دریافت وجه بابت این ربات تخلف محسوب می‌شود.</blockquote>
+<blockquote>🔹 | این ربات شخصیسازی شده و تمام امکانات را دارد.</blockquote>
 
-<blockquote>🔹 | در صورت مشاهدهٔ فروش یا دریافت وجه، لطفاً وجه خود را پیگیری کرده و بازپس‌گیری نمایید.</blockquote>
+<blockquote>🔹 | در صورت مشاهده باگ پیام دهید  .</blockquote>
 ";
 
 if (!in_array($from_id, $admin_ids))
